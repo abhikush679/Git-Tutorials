@@ -1,0 +1,30 @@
+.body{
+	background-color: antiquewhite;
+}
+.top{
+	background-color:antiquewhite;
+	background-position: center;
+	border-bottom: dotted thick red;
+}
+.register{
+	background-color: antiquewhite;
+}
+.com legend {
+  font-size:35px;
+  font-weight:bold;
+	font-family: Cambria, Hoefler Text, Liberation Serif, Times, Times New Roman, serif;
+}
+
+
+.btn{
+	font-weight: bold;
+}
+.com{
+	border-right: dotted thick red;
+	border-left:dotted thick red;
+	border-radius: 5px;
+	border-bottom:dotted thick red;
+	padding: 10px;
+	
+}
+

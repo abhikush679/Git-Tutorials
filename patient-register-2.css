@@ -1,0 +1,54 @@
+.body{
+	background-color: antiquewhite;
+}
+.top{
+	background-color:antiquewhite;
+	background-position: center;
+	border-bottom: dotted thick red;
+}
+
+.register{
+	background-color: antiquewhite;
+}
+.profile-box legend {
+  font-size:35px;
+  font-weight:bold;
+	font-family: Cambria, Hoefler Text, Liberation Serif, Times, Times New Roman, serif;
+}
+.profile-box{
+	border-right: dotted thick red;
+	border-bottom: dotted thick red;
+	border-left:dotted thick red;
+	border-radius: 5px;
+	padding: 10px;
+	
+
+}
+.btn{
+	font-weight: bold;
+}
+
+
+
+.image-preview-input {
+    position: relative;
+    overflow: hidden;
+    margin: 0px;    
+    color: #333;
+    background-color: #fff;
+    border-color: #ccc;    
+}
+.image-preview-input input[type=file] {
+	position: absolute;
+	top: 0;
+	right: 0;
+	margin: 0;
+	padding: 0;
+	font-size: 20px;
+	cursor: pointer;
+	opacity: 0;
+	filter: alpha(opacity=0);
+}
+.image-preview-input-title {
+    margin-left:2px;
+}

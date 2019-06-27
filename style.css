@@ -1,0 +1,186 @@
+.top{
+	background-color:antiquewhite;
+	background-position: center;
+	border-bottom: dotted thick red;
+	
+}
+.info{
+	background-color:antiquewhite;
+}
+.header{
+	text-align: center;
+	font-family: Cambria, Hoefler Text, Liberation Serif, Times, Times New Roman, serif;
+	font-size:40px;
+	
+	border-bottom: dotted thick red;
+	
+}
+
+.log{
+	background-color: antiquewhite;
+}
+
+.log1{
+	border-right:dotted thick red;
+}
+.log2{
+	border-right:dotted thick red;
+}
+
+.admin{
+    margin:0 auto;
+    max-width:350px;
+    margin-top:30px;
+    border:1px solid #ccc;
+    position:relative;
+    overflow:hidden;
+	background-color: #D87575;
+}
+
+.admin img{
+    width:100%;
+     transition:all ease-in-out .5s;
+}
+.adlog{
+     transition:all ease-in-out .5s;
+     top:45%;
+    left:32%;
+    position:absolute;
+    opacity:0;
+}
+.adlog p{
+    transition:all ease-in-out .2s;
+    background-color:#3ad0fc;
+    padding:12px 24px;
+    color:#fff;
+}
+.adlog:hover p{
+    transition:all ease-in-out .2s;
+    background-color:#0D1335;
+    padding:12px 24px;
+    color:#fff;
+}
+
+.admin:hover .adlog{
+    transition:all ease-in-out .5s;
+    opacity:1;
+    color:#000;
+    top:42%;
+}
+.admin:hover img{
+    transition:all ease-in-out .5s;
+    opacity:.6;
+    transform: scale(1.2);
+}
+
+
+
+
+
+.patient{
+    margin:0 auto;
+    max-width:350px;
+    margin-top:30px;
+    border:1px solid #ccc;
+    position:relative;
+    overflow:hidden;
+	background-color: #D87575;
+
+}
+
+.patient img{
+    width:100%;
+     transition:all ease-in-out .5s;
+}
+.login{
+     transition:all ease-in-out .5s;
+     top:45%;
+    left:32%;
+    position:absolute;
+    opacity:0;
+}
+.login p{
+    transition:all ease-in-out .2s;
+    background-color:#3ad0fc;
+    padding:12px 24px;
+    color:#fff;
+}
+.login:hover p{
+    transition:all ease-in-out .2s;
+    background-color:#0D1335;
+    padding:12px 24px;
+    color:#fff;
+}
+
+.patient:hover .login{
+    transition:all ease-in-out .5s;
+    opacity:1;
+    color:#000;
+    top:42%;
+}
+.patient:hover img{
+    transition:all ease-in-out .5s;
+    opacity:.6;
+    transform: scale(1.2);
+}
+
+
+
+.doc{
+    margin:0 auto;
+    max-width:350px;
+    margin-top:30px;
+    border:1px solid #ccc;
+    position:relative;
+    overflow:hidden;
+	background-color: #D87575;
+	
+}
+
+.doc img{
+    width:100%;
+     transition:all ease-in-out .5s;
+}
+.doclog{
+     transition:all ease-in-out .5s;
+     top:45%;
+    left:32%;
+    position:absolute;
+    opacity:0;
+}
+.doclog p{
+    transition:all ease-in-out .2s;
+    background-color:#3ad0fc;
+    padding:12px 24px;
+    color:#fff;
+}
+.doclog:hover p{
+    transition:all ease-in-out .2s;
+    background-color:#0D1335;
+    padding:12px 24px;
+    color:#fff;
+}
+
+.doc:hover .doclog{
+    transition:all ease-in-out .5s;
+    opacity:1;
+    color:#000;
+    top:42%;
+}
+.doc:hover img{
+    transition:all ease-in-out .5s;
+    opacity:.6;
+    transform: scale(1.2);
+}
+
+.foot{
+	border-top:solid thin red;
+	
+}
+
+
+
+
+
+
+

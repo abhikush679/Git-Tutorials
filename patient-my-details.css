@@ -1,0 +1,58 @@
+body{
+	background-color: antiquewhite;
+}
+
+.top{
+	background-position: center;
+	border-bottom: dotted thick red;
+	
+}
+
+.menu{
+	border-bottom: red dotted thick;
+}
+.icon-bar{
+	background-color: red;
+}
+
+.navbar{
+
+	background-color:transparent;
+	top: 10px;
+}
+#abk li{
+	font-family: Cambria, Hoefler Text, Liberation Serif, Times, Times New Roman, serif;
+	font-size:20px;
+}
+#abk li a{
+	color: red;
+}
+#abk li a:hover{
+	color:white;
+	background-color: red;
+}
+
+.active{
+	
+background:red;
+	color: white !important;	
+}
+
+.panel{
+	border-radius: 10px;
+	padding: 4px;
+	border-bottom: dotted thick red;
+	border-left: dotted thick red;
+	border-right: dotted thick red;
+	background-color:antiquewhite;
+}
+.panel-heading{
+	background-color:deepskyblue;
+}
+.panel-footer{
+	background-color:deepskyblue;
+}
+
+
+
+
